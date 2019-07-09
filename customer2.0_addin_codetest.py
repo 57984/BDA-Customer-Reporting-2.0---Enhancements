@@ -441,7 +441,7 @@ df_rehosp = pd.concat([df_h,df_p]).reset_index(drop=True)
 
 
 
-#functions to create the templateA slide and displays the title below
+#functions to create the template slide and displays the title below
 
 
 def summaryX_setup(x):
